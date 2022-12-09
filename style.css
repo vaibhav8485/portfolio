@@ -58,23 +58,28 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
     position: relative;
 }
 
-.m_df{
+.xsc1{
+    font-size: 35px;
+    width: 520px;
+    height: 55px;
     text-align: center;
-    width: 700px;
-    height: 80px;
     position: absolute;
-    top: 33%;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /* border: 1px solid black; */
 }
-.m_d{
+
+.xsc2{
+    font-size: 15px;
     text-align: center;
-    width: 700px;
-    height: 200px;
+    width: 450px;
+    height: 75px;
     position: absolute;
-    top: 53%;
+    top: 58%;
     left: 50%;
     transform: translate(-50%, -50%);
+    /* border: 1px solid black; */
 }
 
 /* SOCIAL ANCOR ON MAIN IMAGE */
