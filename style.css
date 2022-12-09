@@ -1,0 +1,100 @@
+/* GLOBAL */
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+/* FOR ALL BUTTONS */
+.btn{
+    background-color: orange;
+    color: white;
+}
+
+/* FOR ALL ANCHOR */
+a.a1, a.a2, a.a3, a.a4, a.a5{
+    color: black;
+}
+
+a.a1:hover, a.a2:hover, a.a3:hover, a.a4:hover, a.a5:hover{
+    color: orange;
+}
+
+a.a6, a.a7, a.a8, a.a9, a.a10{
+    color: white;
+}
+
+a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
+    color: orange;
+}
+
+.btn:hover{
+    transform: translate(0, -5px);
+    color: white;
+}
+
+/* NAVIGATION ANCHOR */
+.n_a{
+    margin-top: 5px;
+    margin-right: 55px;
+    font-size: 18px;
+    font-family: Franklin Gothic Medium;   
+    color: black;
+}
+
+.n_a:hover{
+    color: orange;
+}
+
+.bh{
+    color: black;
+}
+
+.bh:hover{
+    color: orange;
+}
+
+/* MAIN BG-IMAGE */
+.m_p{
+    position: relative;
+}
+
+.m_df{
+    text-align: center;
+    width: 700px;
+    height: 80px;
+    position: absolute;
+    top: 33%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.m_d{
+    text-align: center;
+    width: 700px;
+    height: 200px;
+    position: absolute;
+    top: 53%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* SOCIAL ANCOR ON MAIN IMAGE */
+.social{
+    width: 60px;
+    height: 265px;
+    background-color: white;            
+    position: absolute;
+    top: 180px;
+    left: 0;
+    border-radius: 5px;
+}
+
+/* CONTACT */
+.c_d1{
+    text-align: center;
+    width: 565px;
+    height: 150px;
+    position: absolute;
+    top: 16%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
