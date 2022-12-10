@@ -60,23 +60,17 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
 
 
 .xsc1{
-    /* width: 100%;
-    height: 55px; */
     position: absolute;
-    top: 40%;
+    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* border: 1px solid black; */
 }
 
 .xsc2{
-    /* width: 100%;
-    height: 75px; */
     position: absolute;
-    top: 55%;
+    top: 65%;
     left: 50%;
     transform: translate(-50%, -50%);
-    /* border: 1px solid black; */
 }
 
 /* SOCIAL ANCOR ON MAIN IMAGE */
