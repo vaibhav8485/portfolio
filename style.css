@@ -85,12 +85,12 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
 }
 
 /* CONTACT */
-.c_d1{
+.xsc3{
     text-align: center;
-    width: 565px;
-    height: 150px;
+    width: 100%;
+    height: 55px;
     position: absolute;
-    top: 16%;
+    top: 12%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
