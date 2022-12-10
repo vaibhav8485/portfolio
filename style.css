@@ -58,11 +58,10 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
     position: relative;
 }
 
+
 .xsc1{
-    font-size: 35px;
-    width: 520px;
+    width: 100%;
     height: 55px;
-    text-align: center;
     position: absolute;
     top: 40%;
     left: 50%;
@@ -71,12 +70,11 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
 }
 
 .xsc2{
-    font-size: 15px;
     text-align: center;
-    width: 450px;
+    width: 100%;
     height: 75px;
     position: absolute;
-    top: 58%;
+    top: 55%;
     left: 50%;
     transform: translate(-50%, -50%);
     /* border: 1px solid black; */
