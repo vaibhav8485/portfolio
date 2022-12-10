@@ -4,6 +4,54 @@
     margin: 0%;
 }
 
+/* HORIZANTAL LINE (Modified) */
+.newhr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: orange;
+    border-width: 7px;
+    width: 10%;
+}
+
+/* CSS FOR MOBILE  */
+
+/* main image */
+.xsc1{
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.xsc2{
+    position: absolute;
+    top: 66%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+/* contact */
+.xsc3{
+    text-align: center;
+    width: 100%;
+    height: 55px;
+    position: absolute;
+    top: 10%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
+
+
+
+
 /* FOR ALL BUTTONS */
 .btn{
     background-color: orange;
@@ -53,25 +101,6 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
     color: orange;
 }
 
-/* MAIN BG-IMAGE */
-.m_p{
-    position: relative;
-}
-
-
-.xsc1{
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
-.xsc2{
-    position: absolute;
-    top: 65%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 /* SOCIAL ANCOR ON MAIN IMAGE */
 .social{
@@ -84,13 +113,3 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
     border-radius: 5px;
 }
 
-/* CONTACT */
-.xsc3{
-    text-align: center;
-    width: 100%;
-    height: 55px;
-    position: absolute;
-    top: 12%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
