@@ -49,14 +49,14 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
 /* MOBILE  */
 .xsc1{
     position: absolute;
-    top: 35%;
+    top: 39%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
 
 .xsc2{
     position: absolute;
-    top: 66%;
+    top: 67%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
