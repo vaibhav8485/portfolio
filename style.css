@@ -77,12 +77,22 @@ a.a6:hover, a.a7:hover, a.a8:hover, a.a9:hover, a.a10:hover{
 
 .newhr{
     border-style: none;
-    border-top-style: dotted;
+    border-top-style: solid;
     border-color: orange;
-    border-width: 7px;
+    border-width: 10px;
     width: 10%;
+    border-radius: 10px;
 }
 
+/* TABLET */
+.newhr2{
+    border-style: none;
+    border-top-style: solid;
+    border-color: orange;
+    border-width: 10px;
+    width: 5%;
+    border-radius: 10px;
+}
 
 /* COMPUTER */
 .m_df{
@@ -134,18 +144,11 @@ a.a1:hover, a.a2:hover, a.a3:hover, a.a4:hover, a.a5:hover{
     border-radius: 5px;
 }
 
-.newhr2{
+.newhr3{
     border-style: none;
-    border-top-style: dotted;
+    border-top-style: solid;
     border-color: orange;
     border-width: 10px;
     width: 4%;
-}
-
-.newhr3{
-    border-style: none;
-    border-top-style: dotted;
-    border-color: orange;
-    border-width: 10px;
-    width: 3%;
+    border-radius: 10px;
 }
